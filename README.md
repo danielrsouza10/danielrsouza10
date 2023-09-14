@@ -1,4 +1,49 @@
-### Hi there 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Welcome!+My+name+is+Daniel+Souza;I+from+Brasil,+GO;I+study+software+engineering;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
+<div align="center">  
+   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielrsouza10&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
+
+### Main skills:
+![Angular](https://img.shields.io/badge/-Angular-0D1117?style=for-the-badge&logo=angular&labelColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-Javascript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
+![TypeScript](https://img.shields.io/badge/-Typescript-0D1117?style=for-the-badge&logo=Typescript&logoColor=purple&labelColor=0D1117)&nbsp; 
+![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=java&logoColor=1572B6&labelColor=0D1117)&nbsp;
+
+### Tools:
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117)&nbsp;
+
+### Other Knowledge:
+![HTML5](https://img.shields.io/badge/-html5-0D1117?style=for-the-badge&logo=html5&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![CSS3](https://img.shields.io/badge/-CSS3-0D1117?style=for-the-badge&logo=css3&labelColor=0D1117)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-0D1117?style=for-the-badge&logo=Bootstrap&labelColor=0D1117)&nbsp;
+![Firebase](https://img.shields.io/badge/-firebase-0D1117?style=for-the-badge&logo=firebase&labelColor=0D1117)&nbsp;
+  
+### Studying in this moment:
+![React.JS](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Spring](https://img.shields.io/badge/-Spring-0D1117?style=for-the-badge&logo=spring&labelColor=0D1117&textColor=0D1117)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge&logo=mongodb&labelColor=0D1117&textColor=0D1117)&nbsp;
+
+### How to reach me: 
+<div>
+  <a href="https://www.linkedin.com/in/danielrsouza/">
+    <img src="https://img.shields.io/badge/-Linkedin-0D1117?style=for-the-badge&logo=linkedin&labelColor=0D1117&textColor=0D1117">
+  </a>
+   <a href="https://www.instagram.com/danielrsouza/">
+    <img src="https://img.shields.io/badge/-Instagram-0D1117?style=for-the-badge&logo=instagram&labelColor=0D1117&textColor=0D1117">
+  </a>
+</div>
+
+### Pronouns: 
+👨He/Him
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
 <!--
 **danielrsouza10/danielrsouza10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
