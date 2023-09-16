@@ -1,7 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello!+My+name+is+Daniel+Souza!;I'm+a+Front-End+Developer+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
 <div align="center">  
    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielrsouza10&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
@@ -38,12 +34,6 @@
     <img src="https://img.shields.io/badge/-Instagram-0D1117?style=for-the-badge&logo=instagram&labelColor=0D1117&textColor=0D1117">
   </a>
 </div>
-
-### Pronouns: 
-👨He/Him
-
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
 <!--
 **danielrsouza10/danielrsouza10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
