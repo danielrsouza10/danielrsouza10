@@ -1,4 +1,4 @@
-### Hi, my name is Daniel! Welcome! 🙋‍♂️
+### Hi! My name is Daniel Souza! Welcome! 🙋‍♂️
 
 ### Main skills:
 ![Angular](https://img.shields.io/badge/-Angular-0D1117?style=for-the-badge&logo=angular&labelColor=0D1117)&nbsp;
