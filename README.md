@@ -1,10 +1,10 @@
 ### Hi! My name is Daniel Souza! Welcome! 🙋‍♂️
 
 ### Main skills:
+![.Net](https://img.shields.io/badge/-DotNet-0D1117?style=for-the-badge&logo=DotNet&logoColor=purple&labelColor=0D1117)&nbsp; 
 ![Angular](https://img.shields.io/badge/-Angular-0D1117?style=for-the-badge&logo=angular&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-Javascript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-Typescript-0D1117?style=for-the-badge&logo=Typescript&logoColor=purple&labelColor=0D1117)&nbsp; 
-![DotNet](https://img.shields.io/badge/-DotNet-0D1117?style=for-the-badge&logo=DotNet&logoColor=purple&labelColor=0D1117)&nbsp; 
 
 
 ### Tools:
