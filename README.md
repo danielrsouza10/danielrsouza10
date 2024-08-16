@@ -4,6 +4,7 @@
 ![C#](https://img.shields.io/badge/-CSharp-0D1117?style=for-the-badge&logo=CSharp&labelColor=0D1117)&nbsp;
 ![.Net](https://img.shields.io/badge/-DotNet-0D1117?style=for-the-badge&logo=DotNet&logoColor=purple&labelColor=0D1117)&nbsp; 
 ![JavaScript](https://img.shields.io/badge/-Javascript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
+![SQLServer](https://img.shields.io/badge/-SQLServer-0D1117?style=for-the-badge&logo=SQLServer&labelColor=0D1117)&nbsp;
 
 ### Tools:
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
